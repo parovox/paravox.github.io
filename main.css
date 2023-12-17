@@ -1,0 +1,48 @@
+body {
+    font-family: cursive;
+   
+   
+}
+
+header {
+    font-family: system-ui; 
+}
+
+
+footer {
+  left: 0; bottom: 0; 
+  padding: 10px; 
+  background: #162117; 
+  color: #fff;
+  width: 98%; 
+ }
+
+
+  .color_1{
+    border: solid 2px;
+    color: #f35100;
+    width: 300px;
+    text-shadow: 2px 2px 3px rgb(92, 92, 235)
+    }
+
+    .site_nav {
+      display:flex;
+      position:relative;
+      width:98%;
+      padding:10px;
+      background:#eee;
+    }
+.center-img {
+   display: block;
+   margin: 0 auto;
+   }
+.p1{
+  text-align: justify;
+  text-align-last: auto;
+  } 
+
+
+.light-theme {
+ color: #000000;
+ background: #49ff49;
+}
